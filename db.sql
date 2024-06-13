@@ -1,4 +1,3 @@
-CREATE DATABASE todo_app;
 
 USE todo_app;
 
